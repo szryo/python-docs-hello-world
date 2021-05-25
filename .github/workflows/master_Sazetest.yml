@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'Sazetest'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_6b1ce713faaa44ae910a0463313ada61 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_efa9060bd0044ce5be978cd55a125d49 }}
